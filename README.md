@@ -8,6 +8,7 @@
   <h1>Next.js</h1>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 This project contains a Saas platform developped with Nextjs, React, Tailwind for the design, Stripe for the paiments and Shadc/ui for the UI.
 
 ## Getting Started
